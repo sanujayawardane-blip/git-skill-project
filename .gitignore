@@ -1,0 +1,18 @@
+# Ignore text and document files
+*.txt
+*.doc
+*.docx
+
+# Ignore images / screenshots
+*.png
+*.jpg
+*.jpeg
+
+# Ignore Python compiled files
+*.pyc
+
+# Ignore backup/temp files
+*~
+
+# Ignore folders
+screen_captures/
