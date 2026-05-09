@@ -3,5 +3,9 @@
 # Description: Prints Git familiarity level
 
 print("Hello Git!")
+<<<<<<< HEAD
 print("This is main baranch")
+=======
+print("added in development branch")
+>>>>>>> development
 
