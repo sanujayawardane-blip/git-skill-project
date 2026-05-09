@@ -3,5 +3,5 @@
 # Description: Prints Git familiarity level
 
 print("Hello Git!")
-print("New change added")
+print("This is main baranch")
 
